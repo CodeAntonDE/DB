@@ -35,7 +35,18 @@
 
 **************************************************************************************************
 
-# 5)
+# 5) Какие типы индексов существуют?
+
+![image](https://github.com/user-attachments/assets/88bb235f-82af-4a08-8ca5-29d544784078)
+
+![image](https://github.com/user-attachments/assets/cedff2b1-28bc-4073-b357-2f2ce3055c60)
+
+![image](https://github.com/user-attachments/assets/ce9c7f35-dcdf-47df-bc17-ef18cbb4cb69)
+
+![image](https://github.com/user-attachments/assets/5a1ae810-894f-4df0-ac09-955c826a0124)
+
+![image](https://github.com/user-attachments/assets/5b2815a1-4b2a-4745-a4fd-28ef346a1475)
+
 
 **************************************************************************************************
 
