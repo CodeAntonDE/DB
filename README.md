@@ -6,6 +6,12 @@
 **************************************************************************************************
 # 2) Какие существуют уровни Изоляции в сатндарте SQL?
 
+![image](https://github.com/user-attachments/assets/51c81a20-586a-4eaf-91ab-efccab4e160a)
+
+![image](https://github.com/user-attachments/assets/322af54d-e906-4284-a23b-da08d6af0167)
+
+![image](https://github.com/user-attachments/assets/b582aceb-1768-4231-bae0-9f293dd006a7)
+
 **************************************************************************************************
 
 # 3)
