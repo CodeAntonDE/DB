@@ -1,4 +1,4 @@
-# 1) Для чего нужен ACID? Объясни своими словами понятия: Атомарность, Согласованность, Изоляция и Устойчивость.
+![image](https://github.com/user-attachments/assets/5e622cf5-a61e-4c0d-a1a2-292a660e01ef)# 1) Для чего нужен ACID? Объясни своими словами понятия: Атомарность, Согласованность, Изоляция и Устойчивость.
 
 ![image](https://github.com/user-attachments/assets/0767e0fb-c3d0-4691-b598-a377e1e75779)
 
@@ -73,6 +73,15 @@
 **************************************************************************************************
 
 # 8) Чем отличается материализованное представление от нематериализованного?
+
+![image](https://github.com/user-attachments/assets/3cbd6713-545b-4a50-883c-2c60cacc86d2)
+
+![image](https://github.com/user-attachments/assets/eb977546-4da8-4fea-af55-5650050aa3ab)
+
+![image](https://github.com/user-attachments/assets/c2eb51b3-53ad-4d0f-b46d-cd3de3328b60)
+
+
+
 
 
 
