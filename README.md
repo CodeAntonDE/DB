@@ -87,10 +87,26 @@
 
 **************************************************************************************************
 
-# 9)
+# 9) Как устроена система транзакций в PostgreSQL?
+
+![image](https://github.com/user-attachments/assets/2b1d84dc-05a8-4e12-93c2-254c577dd454)
+
+![image](https://github.com/user-attachments/assets/d7c469ca-83fa-42a3-ab67-5f30f04a5bd2)
+
+![image](https://github.com/user-attachments/assets/2441d23e-8030-491d-92fa-1cbf6651cf35)
+
 
 **************************************************************************************************
 
-# 10)
+# 10) Для чего нужны схемы и табличные пространства?
+
+![image](https://github.com/user-attachments/assets/7f49ef8a-6407-45bf-af97-22ffa835be26)
+
+![image](https://github.com/user-attachments/assets/4e86a4be-7d4c-4773-a70d-7db73ee694b1)
+
+![image](https://github.com/user-attachments/assets/ce9f426d-135c-4cc6-9656-180a3cf021d5)
+
+![image](https://github.com/user-attachments/assets/f123a7ee-467c-42e6-a791-8ae294f717b5)
+
 
 **************************************************************************************************
