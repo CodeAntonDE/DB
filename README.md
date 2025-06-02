@@ -119,6 +119,28 @@
 
 ![image](https://github.com/user-attachments/assets/245aeb55-082d-4c8d-b26e-99d830199e24)
 
+**************************************************************************************************
+# 11)  Чем отличаются колоночные БД от строковых?
+
+![image](https://github.com/user-attachments/assets/be85845b-4ab8-46b6-bcfb-541333ba525a)
+
+![image](https://github.com/user-attachments/assets/8bbe15a1-08b7-49fe-9e5e-9940fdab83d2)
+
+![image](https://github.com/user-attachments/assets/f8de6b78-4f18-4c4a-8289-3e7b4cee8af8)
+
+**************************************************************************************************
+# 12)  Для чего нужна репликация данных, какие виды существуют и примеры сценариев репликаций?
+
+![image](https://github.com/user-attachments/assets/35be2a05-e97c-4675-b262-30c89154a95b)
+
+![image](https://github.com/user-attachments/assets/95f44d58-ea67-4f71-acb0-c941a160374a)
+
+![image](https://github.com/user-attachments/assets/03170bfa-d823-49d8-ab42-de512e65e66f)
+
+![image](https://github.com/user-attachments/assets/b0110ca1-602d-4f52-a4b4-e0cb20b58708)
 
 
 **************************************************************************************************
+
+**************************************************************************************************
+
