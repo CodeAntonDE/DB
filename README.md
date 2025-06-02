@@ -110,3 +110,15 @@
 
 
 **************************************************************************************************
+
+# 11)  Объясни CDC подход?
+
+![image](https://github.com/user-attachments/assets/d5472bbc-d83e-4f00-9d20-3167b4393ac8)
+
+![image](https://github.com/user-attachments/assets/2ff54ec5-4eb3-4ffa-b3be-f9569765492e)
+
+![image](https://github.com/user-attachments/assets/245aeb55-082d-4c8d-b26e-99d830199e24)
+
+
+
+**************************************************************************************************
